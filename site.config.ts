@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'fu jang's blog',
+  name: 'Blog',
   domain: 'https://www.notion.so/Index-3ad313ba6a9f410c82f94f53b9717b55',
   author: 'fu jang',
 
