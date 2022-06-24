@@ -17,16 +17,16 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'null',
+  github: 'mbfjllybl',
+  linkedin: 'null',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
-  defaultPageCover: null,
+  defaultPageCover: 'https://github.com/mbfjllybl/pictures-bed/blob/master/1.jpg',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
